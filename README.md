@@ -20,7 +20,7 @@ https://archive.ics.uci.edu/ml/datasets/SUSY
 * Ipython https://ipython.org/install.html
 * Scipy (pip3 install scipy)
 * Matplotlib (pip3 install matplotlib)
-* numpy (pip3 install nump)
+* numpy (pip3 install numpy)
 * pandas (pip3 install pandas)
 
 
